@@ -1,0 +1,6 @@
+Hello world
+*objects: one or more values to print (positional arguments)
+sep: string inserted between objects (default is ' ')
+end: string appended at the end (default is '\n')
+file: output stream (default is sys.stdout)
+flush: whether to flush the stream immediately (default is False)
