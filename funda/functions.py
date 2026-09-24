@@ -22,25 +22,25 @@ def addition(a,b):
     if(a>0 and b>0):
         print("add: ",a+b)
 
-addition(10,20)
+addition(100,20)
 
 def substraction(a,b):
     if(a>0 and b>0):
         print("diff: ",a-b)
 
-substraction(10,20)
+substraction(102,20)
 
 def multiplication(a,b):
     if(a>0 and b>0):
             print("multiplication: ",a*b)
 
-multiplication(100,5);
+multiplication(10,5);
 
 def division(a,b):
     if(a>0 and b>0):
             print("division: ",a/b)
 
-division(100,5);
+division(100,50);
 
 #2 pass statement in python
 x = 10
