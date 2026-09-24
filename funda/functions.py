@@ -18,6 +18,12 @@ evenOdd(5)
 evenOdd(15)
 
 
+def addition(a,b):
+    if(a>0 and b>0):
+        print("add: ",a+b)
+
+addition(10,20)
+
 #2 pass statement in python
 x = 10
 
