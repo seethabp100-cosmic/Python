@@ -15,6 +15,7 @@ def evenOdd(x):
 evenOdd(2)
 evenOdd(10)
 evenOdd(5)
+evenOdd(15)
 
 
 #2 pass statement in python
