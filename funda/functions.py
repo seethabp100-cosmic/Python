@@ -30,6 +30,12 @@ def substraction(a,b):
 
 substraction(10,20)
 
+def multiplication(a,b):
+    if(a>0 and b>0):
+            print("multiplication: ",a*b)
+
+multiplication(100,5);
+
 #2 pass statement in python
 x = 10
 
