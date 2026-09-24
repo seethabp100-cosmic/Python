@@ -36,6 +36,12 @@ def multiplication(a,b):
 
 multiplication(100,5);
 
+def division(a,b):
+    if(a>0 and b>0):
+            print("division: ",a/b)
+
+division(100,5);
+
 #2 pass statement in python
 x = 10
 
