@@ -24,6 +24,12 @@ def addition(a,b):
 
 addition(10,20)
 
+def substraction(a,b):
+    if(a>0 and b>0):
+        print("diff: ",a-b)
+
+substraction(10,20)
+
 #2 pass statement in python
 x = 10
 
